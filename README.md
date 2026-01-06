@@ -1,5 +1,7 @@
-# torabo-tsuki-lp-tenting-case
-torabo-tsuki LP(S)の埋め込みチルトスタンド採用ケース
+# torabo-tsuki LP(S) ケース
+torabo-tsuki LP(S)用の埋め込みチルトスタンド採用ケース
+![ケース外観](img/main_img.jpg)
+
 
 
 ## Acknowledgements
