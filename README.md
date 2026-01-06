@@ -1,7 +1,7 @@
 # torabo-tsuki LP(S) ケース
 torabo-tsuki LP(S)用の埋め込みチルトスタンド採用ケース
 
-![ケース外観](img/main_img.jpg)
+![ケース外観](img/main_img.JPG?raw=1)
 
 
 
