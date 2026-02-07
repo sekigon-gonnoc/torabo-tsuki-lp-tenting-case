@@ -1,6 +1,10 @@
 # torabo-tsuki LP テンティングケース
 torabo-tsuki LPシリーズ用の埋め込みチルトスタンド採用ケース
 
+> [!NOTE]
+> 本リポジトリはt-ogura氏の作成した[torabo-tsuki LP(S)用テンティングケース](https://github.com/t-ogura/torabo-tsuki-lp-tenting-case)をM, Lサイズにも適応させたものです。
+> また、`-adjusted`が付いたデータはボトムプレートの厚みに合わせてトラックボール用の切り欠きの高さを調整したものです。このリポジトリではこちらの形状を推奨します。
+
 ![ケース外観](img/main_img.JPG?raw=1)
 
 ## 注意点
